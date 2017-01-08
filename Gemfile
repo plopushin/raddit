@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise', '~> 4.2'
 
-gem 'bcrypt', '~> 3.1', '>= 3.1.11'
+gem 'bcrypt', '~> 3.1'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
