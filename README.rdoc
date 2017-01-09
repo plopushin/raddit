@@ -4,3 +4,4 @@ Reddit/Hacker News Clone
 
 Simple app that allows you to sign up, sign in, submit links, upvote or downvote, and comment on links.
 
+https://lopushin-reddit-clone.herokuapp.com/
