@@ -4,4 +4,8 @@ Reddit/Hacker News Clone
 
 Simple app that allows you to sign up, sign in, submit links, upvote or downvote, and comment on links.
 
-https://lopushin-reddit-clone.herokuapp.com/
+Tutorial used: https://www.youtube.com/watch?v=7-1HCWbu7iU&ab_channel=MackenzieChild
+
+Git clone, run using RAILS S, and then go to localhost:3000 in your browser to use.
+
+Heroku version: https://lopushin-reddit-clone.herokuapp.com/
